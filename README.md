@@ -11,9 +11,9 @@ Tendo em vista os dados publicados, iremos avaliar os seguintes campos:
 
 ## Leitos por Regiões
 <p float="left">
-  <img src="https://i.postimg.cc/9Q9sqMYX/image.png" width="300" />
-  <img src="https://i.postimg.cc/7hQjSJRh/regi-o-fevereiro.jpg" width="300" />
-  <img src="https://i.postimg.cc/tT90bjPq/image.png" width="300" />
+  <img src="https://i.postimg.cc/9Q9sqMYX/image.png" width="200" />
+  <img src="https://i.postimg.cc/7hQjSJRh/regi-o-fevereiro.jpg" width="200" />
+  <img src="https://i.postimg.cc/tT90bjPq/image.png" width="200" />
 </p>
 
    
