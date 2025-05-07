@@ -24,4 +24,14 @@ Observa-se que não há muita distinção entre os períodos selecionados, entre
   <img src="https://i.postimg.cc/K8khDbtj/image.png" width="300" />
   <img src="https://i.postimg.cc/65PD3PFX/image.png" width="300" />
 </p>
+Em relação a natureza jurídica, o conteúdo disponibilizado se resume em: privado, público e filantrópico.
+Ao que diz respeito aos estabelecimentos privados, houve um aumento de 130 hospitais, diante do mês de janeiro até março. Bem como, 30 hospitais da rede pública, e também, 10 instituições filantrópicas.
+
+## UTI
+
+
+
+
+
+
 
