@@ -16,4 +16,6 @@ Tendo em vista os dados publicados, iremos avaliar os seguintes campos:
   <img src="https://i.postimg.cc/tT90bjPq/image.png" width="200" />
 </p>
 
-   
+Observa-se que não há muita distinção entre os períodos selecionados, entre os meses de janeiro e fevereiro, nota-se que não houve mudança nos leitos disponiveis. Porém, houve um aumento consideravel no mês de março, sendo este de quase 2 mil leitos, também, tendo um leve aumento percepctível nos leitos do SUS.
+
+## Natureza jurídica dos Hospitais
