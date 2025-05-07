@@ -50,7 +50,9 @@ A respeito da região nordeste, a unidade de adulto teve uma diminuição de 15 
 
 Na região do sul, centro-oeste e norte não houveram mudança nas quantidades de leitos.
 
+## Conclusão
 
+Tendo em vista os dados comentados, diante a comparação dos meses de janeiro e março, houve um aumento expressivo na uti adulto e pediatrica nas ambas as redes. Porém, na rede pública houve uma diminuição considerável de 15 leitos na uti adulto e 10 na unidade coronariana. Chegamos a conclusão de que a região nordeste sofre com a falta de disponibilização de leitos e carência nos recursos públicos, por fim, deve-se ter como objetivo de intervenção o investimento nas unidades e restauração das que precisam.
 
 
 
