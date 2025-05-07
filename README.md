@@ -24,10 +24,34 @@ Observa-se que não há muita distinção entre os períodos selecionados, entre
   <img src="https://i.postimg.cc/K8khDbtj/image.png" width="300" />
   <img src="https://i.postimg.cc/65PD3PFX/image.png" width="300" />
 </p>
+
 Em relação a natureza jurídica, o conteúdo disponibilizado se resume em: privado, público e filantrópico.
 Ao que diz respeito aos estabelecimentos privados, houve um aumento de 130 hospitais, diante do mês de janeiro até março. Bem como, 30 hospitais da rede pública, e também, 10 instituições filantrópicas.
 
 ## UTI
+
+<p float="left">
+  <img src="https://i.postimg.cc/pTTdv7gF/image.png" width="300" />
+  <img src="https://i.postimg.cc/QxWHV2Vg/image.png" width="300" />
+</p>
+
+Os leitos disponibilizados por todos os estabelecimentos, sem distinção de natureza jurídica é separado pelas unidades: Adulto, pediatrico, neonatal, coronariana e de queimados.
+
+### Leitos disponíveis existentes
+
+De Janeiro a Março, a UTI de adulto aumentou em 41 unidades, já a pediatrica em 31 leitos.
+As demais unidades não houve nenhum aumento significante, inclusive a unidade de queimados se manteve com os mesmos leitos.
+
+### Leitos a disposição do SUS
+
+Em comparação aos meses de janeiro e março, nos leitos oferecidos a rede pública do SUS, a unidade de Adulto, houve um aumento de 5 leitos na região do sudeste, as demais se manteram na mesma quantidade.
+
+A respeito da região nordeste, a unidade de adulto teve uma diminuição de 15 leitos, também houve uma diminuição de 10 leitos na unidade coronariana.
+
+Na região do sul, centro-oeste e norte não houveram mudança nas quantidades de leitos.
+
+
+
 
 
 
