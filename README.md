@@ -20,3 +20,8 @@ Observa-se que não há muita distinção entre os períodos selecionados, entre
 
 ## Natureza jurídica dos Hospitais
 
+<p float="left">
+  <img src="https://i.postimg.cc/K8khDbtj/image.png" width="300" />
+  <img src="https://i.postimg.cc/65PD3PFX/image.png" width="300" />
+</p>
+
